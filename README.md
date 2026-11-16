@@ -1,2 +1,3 @@
 # Demo1st
 trying out github for the firt time properly...
+This all new and confusing to me. I don't know how to use github and im even sure i like it.
